@@ -1,7 +1,8 @@
 .side-nav-section[aria-label="Popular Channels"],
 .side-nav-section[aria-label="Recommended Channels"],
+.side-nav-section[aria-label$=" Viewers Also Watch"],
 .front-page-carousel,
 .find-me {
-    display: none !important;
-    visibility: hidden; /* For good measure */
+  display: none !important;
+  visibility: hidden; /* For good measure */
 }

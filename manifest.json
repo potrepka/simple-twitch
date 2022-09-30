@@ -5,6 +5,8 @@
     "content_scripts": [
         {
             "matches": [
+                "http://twitch.tv/*",
+                "https://twitch.tv/*",
                 "http://www.twitch.tv/*",
                 "https://www.twitch.tv/*"
             ],
